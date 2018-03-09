@@ -1,1 +1,3 @@
-test clone 
+test clone
+hello test remote add
+
